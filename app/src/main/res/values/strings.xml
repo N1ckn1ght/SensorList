@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Sensor List</string>
+
+    <string-array name="type_sensors">
+        <item>Environmental sensors</item>
+        <item>Human condition sensors</item>
+        <item>Position sensors</item>
+    </string-array>
+</resources>
